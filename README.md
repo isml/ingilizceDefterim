@@ -1,11 +1,11 @@
 # İngilizce Defterim
 İngilizce kelime ve cümlelerinizi kaydedip, kendi kelimeleriniz ve cümleleriniz ile testlere girerek kolayca öğrenerek pratik yapabilirsiniz.
 <p float="left">
-<img src="https://github.com/isml/ingilizceDefterim/blob/main/img/1.jpg" height="450" width="250">
-<img src="https://github.com/isml/ingilizceDefterim/blob/main/img/2.jpg" height="450" width="250">
-<img src="https://github.com/isml/ingilizceDefterim/blob/main/img/3.jpg" height="450" width="250">
-<img src="https://github.com/isml/ingilizceDefterim/blob/main/img/4.jpg" height="450" width="250">
-  <img src="https://github.com/isml/ingilizceDefterim/blob/main/img/5.jpg" height="450" width="250">
+<img src="https://github.com/isml/ingilizceDefterim/blob/main/img/1.png" height="450" width="250">
+<img src="https://github.com/isml/ingilizceDefterim/blob/main/img/2.png" height="450" width="250">
+<img src="https://github.com/isml/ingilizceDefterim/blob/main/img/3.png" height="450" width="250">
+<img src="https://github.com/isml/ingilizceDefterim/blob/main/img/4.png" height="450" width="250">
+  <img src="https://github.com/isml/ingilizceDefterim/blob/main/img/5.png" height="450" width="250">
 </p>
 <b></b>
 
