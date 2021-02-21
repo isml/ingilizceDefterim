@@ -9,6 +9,6 @@
 </p>
 <b></b>
 
-<h2>This Link is Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.wallpi.Wallpi&hl=tr">Google Play Store Link</a></h2>
+<h2>This Link is Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.ismailk.ingilizcedefterim&hl=tr">Google Play Store Link</a></h2>
 
 Projeyi indirdikten sonra ortamınızda(Visual Studio Code veya Android Studio) açarak gerekli paket yüklemelerini yaparak çalıştırabilirsiniz.
